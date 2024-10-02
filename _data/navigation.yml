@@ -7,12 +7,12 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Team"
-    url: /team/
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "Team"
+    url: /team/
 
   - title: "Resource"
     url: /resource/
