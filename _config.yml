@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bohan Zhao / Neuroscientist"
+title                    : "Bohan Zhao" "Neuroscientist"
 title_separator          : "-"
 name                     : &name "Bohan Zhao"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   bio              : "AHA Postdoctoral Fellow"
   location         : "La Jolla, CA"
   employer         : "Scripps Research"
-  uri              : # URL
+  uri              : "https://www.scripps.edu/"
   email            : "zbhsci@@gmail.com" 
 
   # Academic websites
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zhao-bohan"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,14 +76,14 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Potdoc'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'PhD'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Undergrade'
 
 # Site Settings
-teaser                   : "500x300.png"
+teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
